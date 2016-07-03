@@ -1,0 +1,24 @@
+body {
+    background-color: #f7f9fa;
+    font-family: 'Raleway', sans-serif;
+}
+.error {
+    border-color: #d9534f;
+}
+
+.input-group {
+    margin-bottom: 1em;
+}
+
+.auth.card {
+    width: 30rem;
+    margin-top: 8em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box-shadow {
+    -webkit-box-shadow: 0px 10px 20px 0px rgba(50, 50, 50, 0.52);
+    -moz-box-shadow:    0px 10px 20px 0px rgba(50, 50, 50, 0.52);
+    box-shadow:         0px 10px 20px 0px rgba(50, 50, 50, 0.52)
+}
